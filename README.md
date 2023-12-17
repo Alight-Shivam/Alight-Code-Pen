@@ -1,4 +1,4 @@
-# This Website is Hosted at :
+# The link to the website :
 [Alight-Code-Pen](https://alight-code-pen.netlify.app/)
 
 # React + Vite
